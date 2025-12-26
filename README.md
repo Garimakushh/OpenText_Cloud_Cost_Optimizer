@@ -222,6 +222,10 @@ OpenText Pre-Boarding Project – FY26
 ---
 
 ## 📜 License
-
 This project is created for educational and evaluation purposes under OpenText pre-boarding guidelines.
+ 
+---
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/Garimakushh">Garima Kushwaha</a>
+</p>
 
