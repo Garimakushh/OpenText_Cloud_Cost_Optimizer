@@ -20,29 +20,18 @@ To build an **AI-driven cloud cost optimization system** that:
 - Convert unstructured project descriptions into structured cloud profiles  
 - Generate **synthetic, cloud-agnostic billing data**  
 - Perform cost analysis against budget constraints  
-- Generate **6–10 actionable, multi-cloud optimization recommendations**  
+- Generate **8–10 actionable, multi-cloud optimization recommendations**  
 - Produce machine-readable reports (JSON) and exportable summaries  
 
 ---
-
-## 🔍 Scope
-
-### Included
-- LLM-based project profile extraction  
-- Synthetic billing generation (12-15 records)  
-- Cost analysis & optimization recommendations  
-- Multi-cloud + open-source suggestions  
-- Local & Google Colab execution support   
-
----
-
 ## ✨ Features
 - 🧠 LLM-powered understanding of project requirements  
 - 💰 Synthetic cloud billing generation  
 - 📊 Cost analysis & budget variance detection  
 - ☁️ Multi-cloud recommendations (AWS, Azure, GCP, Open-source)  
-- 🧾 Structured JSON outputs  
-- 🛡️ Robust handling of imperfect LLM outputs  
+- 🧾 Structured JSON outputs
+- 🛡️ Robust handling of imperfect LLM outputs
+- 🔍 Local & Google Colab execution support 
 
 ---
 
