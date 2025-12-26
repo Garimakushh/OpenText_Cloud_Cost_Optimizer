@@ -220,7 +220,7 @@ Choose: __
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Garima Kushwaha**  
 Cloud & AI Enthusiast  
