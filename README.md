@@ -111,7 +111,8 @@ The system follows a step-by-step interactive workflow:
   - Monthly budget  
   - Tech stack  
   - Non-functional requirements  
-
+![image](https://github.com/Garimakushh/OpenText_Cloud_Cost_Optimizer/blob/cfb871eaa3f54016231b7fbd7cb6bf4919079a4d/Screenshots/Option%201.png
+)
 ---
 
 ### 2️⃣ Generate Synthetic Billing Data
@@ -131,13 +132,15 @@ The system follows a step-by-step interactive workflow:
   - Budget variance  
   - Over-budget flag  
 - Generates **8–10 multi-cloud optimization recommendations**
-
+![image](https://github.com/Garimakushh/OpenText_Cloud_Cost_Optimizer/blob/cfb871eaa3f54016231b7fbd7cb6bf4919079a4d/Screenshots/Option%202%20%26%203.png
+)
 ---
 
 ### 4️⃣ View Cost Optimization Report
 - Displays the contents of `cost_optimization_report.json`.
 - Allows quick inspection of total cost, service-wise spend & recommendations  
 
+![image](https://github.com/Garimakushh/OpenText_Cloud_Cost_Optimizer/blob/cfb871eaa3f54016231b7fbd7cb6bf4919079a4d/Screenshots/Option%204.png)
 ---
 
 ### 5️⃣ Export HTML Report
@@ -150,6 +153,7 @@ The system follows a step-by-step interactive workflow:
 ### 6️⃣ Exit
 - Safely exits the Cloud Cost Optimizer CLI application  
 
+![image](https://github.com/Garimakushh/OpenText_Cloud_Cost_Optimizer/blob/cfb871eaa3f54016231b7fbd7cb6bf4919079a4d/Screenshots/Option%205%20%26%206.png)
 
 ---
 
