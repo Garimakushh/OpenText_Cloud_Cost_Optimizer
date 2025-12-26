@@ -1,0 +1,143 @@
+<h1>Food Delivery App</h1><pre>{
+  "project_name": "Food Delivery App",
+  "analysis": {
+    "total_monthly_cost_inr": 13500,
+    "budget_inr": 50000,
+    "budget_variance_inr": 36500,
+    "is_over_budget": true,
+    "service_costs": {
+      "RDS": 330,
+      "Object Storage": 1050,
+      "Load Balancer": 110,
+      "Monitoring": 220,
+      "EC2": 800
+    },
+    "high_cost_services": {
+      "Object Storage": 1050
+    }
+  },
+  "recommendations": [
+    {
+      "title": "Migrate Object Storage to Azure Blob Storage",
+      "service": "Storage",
+      "current_cost": 1050,
+      "potential_savings": 300,
+      "recommendation_type": "Migration",
+      "description": "Migrate object storage to Azure Blob Storage to reduce costs",
+      "implementation_effort": "medium",
+      "risk_level": "medium",
+      "cloud_providers": [
+        "Azure"
+      ]
+    },
+    {
+      "title": "Rightsize EC2 Instances",
+      "service": "EC2",
+      "current_cost": 800,
+      "potential_savings": 200,
+      "recommendation_type": "Rightsizing",
+      "description": "Rightsize EC2 instances to reduce costs",
+      "implementation_effort": "low",
+      "risk_level": "low",
+      "cloud_providers": [
+        "AWS"
+      ]
+    },
+    {
+      "title": "Use Open-Source Load Balancer",
+      "service": "Load Balancer",
+      "current_cost": 110,
+      "potential_savings": 50,
+      "recommendation_type": "Open-Source",
+      "description": "Use open-source load balancer to reduce costs",
+      "implementation_effort": "low",
+      "risk_level": "low",
+      "cloud_providers": [
+        "OpenSource"
+      ]
+    },
+    {
+      "title": "Monitor and Optimize RDS Instance",
+      "service": "RDS",
+      "current_cost": 330,
+      "potential_savings": 100,
+      "recommendation_type": "Optimization",
+      "description": "Monitor and optimize RDS instance to reduce costs",
+      "implementation_effort": "medium",
+      "risk_level": "medium",
+      "cloud_providers": [
+        "AWS"
+      ]
+    },
+    {
+      "title": "Use GCP Cloud Storage for Object Storage",
+      "service": "Storage",
+      "current_cost": 1050,
+      "potential_savings": 250,
+      "recommendation_type": "Migration",
+      "description": "Use GCP Cloud Storage for object storage to reduce costs",
+      "implementation_effort": "medium",
+      "risk_level": "medium",
+      "cloud_providers": [
+        "GCP"
+      ]
+    },
+    {
+      "title": "Use Azure Database for PostgreSQL",
+      "service": "Database",
+      "current_cost": 330,
+      "potential_savings": 150,
+      "recommendation_type": "Migration",
+      "description": "Use Azure Database for PostgreSQL to reduce costs",
+      "implementation_effort": "medium",
+      "risk_level": "medium",
+      "cloud_providers": [
+        "Azure"
+      ]
+    },
+    {
+      "title": "Use Open-Source Monitoring Tool",
+      "service": "Monitoring",
+      "current_cost": 220,
+      "potential_savings": 50,
+      "recommendation_type": "Open-Source",
+      "description": "Use open-source monitoring tool to reduce costs",
+      "implementation_effort": "low",
+      "risk_level": "low",
+      "cloud_providers": [
+        "OpenSource"
+      ]
+    },
+    {
+      "title": "Use AWS Lambda for Serverless Computing",
+      "service": "Compute",
+      "current_cost": 0,
+      "potential_savings": 200,
+      "recommendation_type": "Serverless",
+      "description": "Use AWS Lambda for serverless computing to reduce costs",
+      "implementation_effort": "medium",
+      "risk_level": "medium",
+      "cloud_providers": [
+        "AWS"
+      ]
+    },
+    {
+      "title": "Use Azure Functions for Serverless Computing",
+      "service": "Compute",
+      "current_cost": 0,
+      "potential_savings": 200,
+      "recommendation_type": "Serverless",
+      "description": "Use Azure Functions for serverless computing to reduce costs",
+      "implementation_effort": "medium",
+      "risk_level": "medium",
+      "cloud_providers": [
+        "Azure"
+      ]
+    }
+  ],
+  "summary": {
+    "total_potential_savings": 2150,
+    "savings_percentage": 43.0,
+    "recommendations_count": 9
+  }
+}</pre>
