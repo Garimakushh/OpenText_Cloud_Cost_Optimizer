@@ -51,7 +51,7 @@ To build an **AI-driven cloud cost optimization system** that:
 
 ### Academic Integrity
  
-- AI tools(ChatGpt -OpenAI) were used only for assistance and debugging.
+- AI tools were used only for assistance and debugging (ChatGpt - OpenAI).
 - All code was implemented, tested, and validated.
 
 ---
